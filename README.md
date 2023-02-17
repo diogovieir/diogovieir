@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/diogovieir/diogovieir/raw/main/assets/header-git.gif" alt="Hi, I'm Diogo">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyOGE0NmEyYWVmOWRkZWVkNTFiZTViNDQxMDhkNDAyMjMzNDkzMSZjdD1n/uNialFFdYr7pl3FP9U/giphy-downsized-large.gif" alt="Hi, I'm Diogo">
 </p>
 
 <h3 align="center">Intern Data Science @ LIS PUCRS/HP | ML Enthusiast | Student Data Science and AI at PUCRS</h3>
