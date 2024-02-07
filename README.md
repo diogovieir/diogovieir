@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkyOGE0NmEyYWVmOWRkZWVkNTFiZTViNDQxMDhkNDAyMjMzNDkzMSZjdD1n/uNialFFdYr7pl3FP9U/giphy-downsized-large.gif" width=900px alt="Hi, I'm Diogo">
 </p>
 
-<h3 align="center">Intern Data Science @ LIS PUCRS/HP | ML Enthusiast | Student Data Science and AI at PUCRS</h3>
+<h3 align="center">Intern Data Science @ HP | ML Enthusiast | Student Data Science and AI at PUCRS</h3>
 
 
 
