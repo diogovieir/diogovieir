@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Software Innovation Lab PUCRS/HP](https://www.pucrs.br/blog/laboratorio-de-ti/)
+- 🔭 I’m currently working on [HP](https://www.hp.com/br-pt/home.html)
 - 🌱 I’m currently learning **Mlops and AWS**
 - 👯 I’m looking to collaborate on **Data science and AI projects**
 - 💬 Ask me about **Python, technology, cloud, AI ethics and more - I’m happy to help :)**
